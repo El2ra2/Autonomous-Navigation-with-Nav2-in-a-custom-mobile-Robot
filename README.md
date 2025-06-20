@@ -16,7 +16,7 @@ ros2 launch sam_bot_description display.launch.py
 
 ros2 launch slam_toolbox online_async_launch.py use_sim_time:=true
 
--now launch Nav2 using the nav2_bringup’s built-in launch file, navigation_launch.py. We will use my custom Nav2 parameters. Open a new terminal and execute the following:
+-Now launch Nav2 using the nav2_bringup’s built-in launch file, navigation_launch.py. We will use my custom Nav2 parameters. Open a new terminal and execute the following:
 
 ros2 launch nav2_bringup navigation_launch.py params_file:=sam_bot_description/config/nav2_params.yaml use_sim_time:=true
 
