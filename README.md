@@ -1,4 +1,9 @@
 # Autonomous-Navigation-with-Nav2-in-a-custom-mobile-Robot
+
+Video link - 
+https://www.linkedin.com/posts/el2ra2_ros2-nav2-gazebo-activity-7341616327716982784-z90Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLfYSgB2To89ohBpa9MGqr1llLHndJ71XQ
+
+
 Created a custom mobile differential drive Robot and used Nav2 for autonomous navigation, avoiding static and dynamic obstacles while reaching a goal. 
 
 To setup, build basic libraries and dependencies- colcon, ros2-jazzy, gazebo harmonic, rviz, nav2, SLAM toolbox. Copy and paste the ROS2_Workspace in your directory.
