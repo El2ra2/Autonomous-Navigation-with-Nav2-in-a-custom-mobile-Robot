@@ -1,7 +1,10 @@
 # Autonomous-Navigation-with-Nav2-in-a-custom-mobile-Robot
 
-Video link - 
-https://www.linkedin.com/posts/el2ra2_ros2-nav2-gazebo-activity-7341616327716982784-z90Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLfYSgB2To89ohBpa9MGqr1llLHndJ71XQ
+
+
+
+https://github.com/user-attachments/assets/a06f5299-8e9f-4adf-8fa9-0e410f94113a
+
 
 
 Created a custom mobile differential drive Robot and used Nav2 for autonomous navigation, avoiding static and dynamic obstacles while reaching a goal. 
